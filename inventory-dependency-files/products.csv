@@ -1,0 +1,71 @@
+id,name,category,price,created_at
+1,Samsung Galaxy A54 5G 128GB,Electronics,21990.00,2025-08-31 09:37:48.81131
+2,iPhone 14 128GB Space Gray,Electronics,45990.00,2025-08-31 09:37:48.81131
+3,Xiaomi Redmi Note 12 Pro 5G,Electronics,16990.00,2025-08-31 09:37:48.81131
+4,OPPO Find X5 Pro,Electronics,39990.00,2025-08-31 09:37:48.81131
+5,Realme GT Neo 5 240W,Electronics,24990.00,2025-08-31 09:37:48.81131
+6,Dell Inspiron 15 3000 Laptop,Electronics,35990.00,2025-08-31 09:37:48.81131
+7,HP Pavilion Gaming Laptop,Electronics,52990.00,2025-08-31 09:37:48.81131
+8,Lenovo IdeaPad Slim 3,Electronics,28990.00,2025-08-31 09:37:48.81131
+9,Sony WH-1000XM5 Headphones,Electronics,18990.00,2025-08-31 09:37:48.81131
+10,JBL Flip 6 Bluetooth Speaker,Electronics,5990.00,2025-08-31 09:37:48.81131
+11,Anker PowerCore 26800mAh,Electronics,2499.00,2025-08-31 09:37:48.81131
+12,Logitech MX Master 3S Mouse,Electronics,4990.00,2025-08-31 09:37:48.81131
+13,LG 27-inch 4K UHD Monitor,Electronics,16990.00,2025-08-31 09:37:48.81131
+14,Nintendo Switch OLED Model,Electronics,19990.00,2025-08-31 09:37:48.81131
+15,Apple AirPods Pro 2nd Gen,Electronics,13990.00,2025-08-31 09:37:48.81131
+16,Kolin Inverter Split Type Aircon 1.5HP,Home & Kitchen,28990.00,2025-08-31 09:37:48.81131
+17,Sharp Inverter Refrigerator 2-Door,Home & Kitchen,24990.00,2025-08-31 09:37:48.81131
+18,Panasonic Front Load Washing Machine,Home & Kitchen,32990.00,2025-08-31 09:37:48.81131
+19,Samsung Digital Inverter Microwave,Home & Kitchen,7990.00,2025-08-31 09:37:48.81131
+20,Philips Air Fryer XXL 7.3L,Home & Kitchen,12990.00,2025-08-31 09:37:48.81131
+21,Dyson V15 Detect Cordless Vacuum,Home & Kitchen,38990.00,2025-08-31 09:37:48.81131
+22,Tefal Rice Cooker 1.8L Fuzzy Logic,Home & Kitchen,4990.00,2025-08-31 09:37:48.81131
+23,Hanabishi Blender with Grinder,Home & Kitchen,2990.00,2025-08-31 09:37:48.81131
+24,Imarflex Induction Cooker 2000W,Home & Kitchen,3990.00,2025-08-31 09:37:48.81131
+25,American Home Stand Fan 18-inch,Home & Kitchen,3990.00,2025-08-31 09:37:48.81131
+26,Condura Chest Freezer 200L,Home & Kitchen,15990.00,2025-08-31 09:37:48.81131
+27,Lock&Lock Food Storage Set,Home & Kitchen,2990.00,2025-08-31 09:37:48.81131
+28,Rubbermaid Storage Container 50L,Home & Kitchen,1899.00,2025-08-31 09:37:48.81131
+29,IKEA Lack Wall Shelf White,Home & Kitchen,599.00,2025-08-31 09:37:48.81131
+30,Kyowa Kitchen Scale Digital,Home & Kitchen,1299.00,2025-08-31 09:37:48.81131
+31,Uniqlo Heattech Crew Neck Long Sleeve,Fashion & Clothing,990.00,2025-08-31 09:37:48.81131
+32,Zara Slim Fit Jeans Dark Blue,Fashion & Clothing,2590.00,2025-08-31 09:37:48.81131
+33,Nike Dri-FIT Running Shorts,Fashion & Clothing,1895.00,2025-08-31 09:37:48.81131
+34,Adidas Essentials 3-Stripes Hoodie,Fashion & Clothing,3200.00,2025-08-31 09:37:48.81131
+35,Penshoppe Graphic Tee Philippines,Fashion & Clothing,799.00,2025-08-31 09:37:48.81131
+36,Local Brand Barong Tagalog Formal,Fashion & Clothing,3500.00,2025-08-31 09:37:48.81131
+37,Nike Air Force 1 Low White,Fashion & Clothing,5495.00,2025-08-31 09:37:48.81131
+38,Adidas Ultraboost 22 Running Shoes,Fashion & Clothing,9500.00,2025-08-31 09:37:48.81131
+39,Converse Chuck Taylor All Star,Fashion & Clothing,3290.00,2025-08-31 09:37:48.81131
+40,Lacoste Polo Shirt Classic Fit,Fashion & Clothing,4590.00,2025-08-31 09:37:48.81131
+41,Olay Regenerist Micro-Sculpting Cream,Health & Beauty,1499.00,2025-08-31 09:37:48.81131
+42,Cetaphil Gentle Skin Cleanser 591ml,Health & Beauty,899.00,2025-08-31 09:37:48.81131
+43,Human Nature Sunflower Beauty Oil,Health & Beauty,349.00,2025-08-31 09:37:48.81131
+44,Kojie San Kojic Acid Soap,Health & Beauty,89.00,2025-08-31 09:37:48.81131
+45,Belo Intensive Whitening Face Wash,Health & Beauty,299.00,2025-08-31 09:37:48.81131
+46,L'Oreal Paris Revitalift Serum,Health & Beauty,1299.00,2025-08-31 09:37:48.81131
+47,Maybelline Fit Me Foundation,Health & Beauty,549.00,2025-08-31 09:37:48.81131
+48,The Ordinary Niacinamide 10%,Health & Beauty,760.00,2025-08-31 09:37:48.81131
+49,CeraVe Moisturizing Cream,Health & Beauty,1199.00,2025-08-31 09:37:48.81131
+50,Neutrogena Ultra Sheer Sunblock,Health & Beauty,699.00,2025-08-31 09:37:48.81131
+51,Adidas FIFA World Cup Ball,Sports & Fitness,2999.00,2025-08-31 09:37:48.81131
+52,Nike Basketball Official Size,Sports & Fitness,1895.00,2025-08-31 09:37:48.81131
+53,Yonex Badminton Racket Arcsaber,Sports & Fitness,4590.00,2025-08-31 09:37:48.81131
+54,Decathlon Camping Tent 3-Person,Sports & Fitness,5999.00,2025-08-31 09:37:48.81131
+55,The North Face Duffel Bag,Sports & Fitness,4590.00,2025-08-31 09:37:48.81131
+56,Adidas Yoga Mat 6mm,Sports & Fitness,1499.00,2025-08-31 09:37:48.81131
+57,Reebok Dumbbells 5kg Set,Sports & Fitness,2999.00,2025-08-31 09:37:48.81131
+58,Gold's Gym Resistance Bands,Sports & Fitness,899.00,2025-08-31 09:37:48.81131
+59,Garmin Forerunner 245 GPS Watch,Sports & Fitness,16990.00,2025-08-31 09:37:48.81131
+60,Fitbit Charge 5 Fitness Tracker,Sports & Fitness,9990.00,2025-08-31 09:37:48.81131
+61,Nestle Nescafe 3in1 Original 30s,Food & Beverages,189.00,2025-08-31 09:37:48.81131
+62,Great Taste White Coffee 3in1,Food & Beverages,165.00,2025-08-31 09:37:48.81131
+63,Lucky Me Pancit Canton Original,Food & Beverages,12.50,2025-08-31 09:37:48.81131
+64,Silver Swan Soy Sauce 1L,Food & Beverages,89.00,2025-08-31 09:37:48.81131
+65,UFC Banana Catsup 320g,Food & Beverages,45.00,2025-08-31 09:37:48.81131
+66,Del Monte Sweet Style Spaghetti Sauce,Food & Beverages,52.00,2025-08-31 09:37:48.81131
+67,Argentina Corned Beef 175g,Food & Beverages,35.00,2025-08-31 09:37:48.81131
+68,Kraft Eden Cheese 440g,Food & Beverages,159.00,2025-08-31 09:37:48.81131
+69,San Miguel Beer Pale Pilsen 330ml,Food & Beverages,55.00,2025-08-31 09:37:48.81131
+70,C2 Green Tea Apple 500ml,Food & Beverages,35.00,2025-08-31 09:37:48.81131
